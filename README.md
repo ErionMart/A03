@@ -24,15 +24,15 @@ Then you have your published URL
 Reference -  IntroToGitHub-20190318.pptx
 
 Glossary
-Branch - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. 
-Clone - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. 
-Commit - A commit, or "revision", is an individual change to a file (or set of files).
-Fetch - This is when adding changes from the remote repository to your local working branch without committing them.
-GIT - Git is an open source program for tracking changes in text files.
-Github - Github provide a service to an entire organization and use their own identity when performing their function 
-Merge - This takes the changes from one branch in the same repository or from a fork, and applies them into another. 
-Merge Conflict -  A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
-Push - To push means to send your committed changes to a remote repository on GitHub.com.
-Pull - This refers to when you are fetching in changes and merging them.
-Remote - This is the version of a repository or branch that is hosted on a server.
-Repository - A repository contains all of the project files (including documentation), and stores each file's revision history. 
+<b>Branch</b> - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. 
+<b>Clone</b> - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. 
+<b>Commit</b> - A commit, or "revision", is an individual change to a file (or set of files).
+<b>Fetch</b> - This is when adding changes from the remote repository to your local working branch without committing them.
+<b>GIT</b> - Git is an open source program for tracking changes in text files.
+<b>Github</b> - Github provide a service to an entire organization and use their own identity when performing their function 
+<b>Merge</b> - This takes the changes from one branch in the same repository or from a fork, and applies them into another. 
+<b>Merge Conflict</b> -  A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
+<b>Push</b> - To push means to send your committed changes to a remote repository on GitHub.com.
+<b>Pull</b> - This refers to when you are fetching in changes and merging them.
+<b>Remote</b> - This is the version of a repository or branch that is hosted on a server.
+<b>Repository</b> - A repository contains all of the project files (including documentation), and stores each file's revision history. 
